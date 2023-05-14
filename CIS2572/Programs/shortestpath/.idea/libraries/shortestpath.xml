@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shortestpath">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/shortestpath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

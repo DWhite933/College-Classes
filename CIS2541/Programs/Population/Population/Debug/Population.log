@@ -1,0 +1,3 @@
+﻿  Population.cpp
+c:\users\gamer\desktop\college classes\c++ programming cis2541\programs\population\population\population.cpp(77): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Population.vcxproj -> C:\Users\gamer\Desktop\College Classes\C++ Programming CIS2541\Programs\Population\Debug\Population.exe

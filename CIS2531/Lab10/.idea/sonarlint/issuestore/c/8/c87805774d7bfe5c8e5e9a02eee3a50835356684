@@ -1,0 +1,4 @@
+
+Npython:S1144B"6Remove this unused class-private '__get_price' method.(»¦þÆ
+ppython:S1176"YRename this local variable "itemList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó¤ó™
+tpython:S1175"XRename this local variable "itemSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(âƒ¡³úÿÿÿÿ

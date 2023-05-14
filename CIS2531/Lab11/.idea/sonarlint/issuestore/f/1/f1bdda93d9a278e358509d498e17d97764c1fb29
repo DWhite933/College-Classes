@@ -1,0 +1,5 @@
+
+fpython:S1542"NRename function "showInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(§”ıÄ
+jpython:S1542"RRename function "createWorker" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹ÙÂÔ
+spython:S1542"VRename function "createSupervisor" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷ì©ûÿÿÿÿ
+rpython:S117-"[Rename this local variable "menuChoice" to match the regular expression ^[_a-z][a-z0-9_]*$.(Åö‡

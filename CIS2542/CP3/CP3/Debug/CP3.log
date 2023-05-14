@@ -1,0 +1,4 @@
+﻿  CP3.cpp
+C:\Users\gamer\Desktop\College Classes\Advanced C++ Programming CIS2531\CP3\CP3\CP3.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gamer\Desktop\College Classes\Advanced C++ Programming CIS2531\CP3\CP3\CP3.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+  CP3.vcxproj -> C:\Users\gamer\Desktop\College Classes\Advanced C++ Programming CIS2531\CP3\Debug\CP3.exe

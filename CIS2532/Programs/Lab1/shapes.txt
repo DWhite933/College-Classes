@@ -1,0 +1,15 @@
+Square: 5.29
+Cube: 24
+Cube: 24
+Circle: 3.14
+Cube: 24
+Circle: 3.14
+Cube: 24
+Cube: 24
+Circle: 3.14
+Circle: 3.14
+Square: 5.29
+Square: 5.29
+Square: 5.29
+Square: 5.29
+Circle: 3.14

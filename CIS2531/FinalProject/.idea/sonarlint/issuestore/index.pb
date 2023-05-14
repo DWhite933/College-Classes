@@ -1,0 +1,8 @@
+
+:
+
+Contact.py,4\9\49252ba7cd998d03814e05e5dcbd0c1e42cb944a
+<
+Contacts.txt,a\4\a49f495fa83fb52408395a33a885b4a1bc6710df
+6
+GUI.py,c\b\cb73170c39972d4e09b6f4f8d42499f7858c8e00

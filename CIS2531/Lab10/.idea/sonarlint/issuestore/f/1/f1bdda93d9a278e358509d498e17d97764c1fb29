@@ -1,0 +1,3 @@
+
+fpython:S1542"NRename function "showMenu" to match the regular expression ^[a-z_][a-z0-9_]*$.(œñäÀ
+kpython:S1542"SRename function "getMenuChoice" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹–Ôü

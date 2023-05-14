@@ -1,0 +1,22 @@
+Pints Each Hour
+1
+2
+3
+4
+5
+6
+7
+Average Pints
+4.0
+
+Pints Each Hour
+8
+9
+10
+11
+12
+13
+14
+Average Pints
+11.0
+

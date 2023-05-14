@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Intro to Python Programming CIS2531/FinalProject/.idea/FinalProject.iml" filepath="$PROJECT_DIR$/../../../Intro to Python Programming CIS2531/FinalProject/.idea/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab1.iml" filepath="$PROJECT_DIR$/.idea/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Intro to Python Programming CIS2531/Lab11/.idea/Lab11.iml" filepath="$PROJECT_DIR$/../../../Intro to Python Programming CIS2531/Lab11/.idea/Lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab2/.idea/Lab2.iml" filepath="$PROJECT_DIR$/../Lab2/.idea/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab3/.idea/Lab3.iml" filepath="$PROJECT_DIR$/../Lab3/.idea/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab4/.idea/Lab4.iml" filepath="$PROJECT_DIR$/../Lab4/.idea/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab5/.idea/Lab5.iml" filepath="$PROJECT_DIR$/../Lab5/.idea/Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Intro to Python Programming CIS2531/Programs/.idea/Programs.iml" filepath="$PROJECT_DIR$/../../../Intro to Python Programming CIS2531/Programs/.idea/Programs.iml" />
+    </modules>
+  </component>
+</project>

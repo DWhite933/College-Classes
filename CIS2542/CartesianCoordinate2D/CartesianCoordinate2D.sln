@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CartesianCoordinate2D", "CartesianCoordinate2D\CartesianCoordinate2D.vcxproj", "{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Debug|x64.ActiveCfg = Debug|x64
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Debug|x64.Build.0 = Debug|x64
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Debug|x86.Build.0 = Debug|Win32
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Release|x64.ActiveCfg = Release|x64
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Release|x64.Build.0 = Release|x64
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Release|x86.ActiveCfg = Release|Win32
+		{FFAF0590-4F79-4BEA-8298-2C5F67EB70FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CABAF5F-73D9-435D-A637-1850E6149766}
+	EndGlobalSection
+EndGlobal
